@@ -4,7 +4,7 @@
 
 Manipulate Android devices from any (supported) web browsers, even from another Android device.
 
-Online demo: https://yume-chan.github.io/ya-webadb
+Online demo: https://viniciusfxavier.github.io/ya-webadb/
 
 ## How does it work
 
